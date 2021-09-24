@@ -1,0 +1,97 @@
+ 
+ #logo{
+   max-width: 90% ;
+   max-height: 90%;
+
+ }
+
+.navbar-expand-xl .navbar-nav .nav-link
+{
+  color: white;
+  border-color: white;
+  font-size: 15px;   
+
+}
+
+.texto-cerveja
+{ 
+  color: white;
+  font-size: 20pt;
+  font-family: Cambria; 
+  text-align: left; 
+  padding-bottom: 2%;
+}
+
+.card-img-top
+{
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.fa-cocktail{
+  text-decoration: none;
+  font-size: 25pt; 
+  padding-bottom: 2%;
+}
+
+.img-carousel{ 
+  width: auto; 
+  height: 400px;
+  object-fit: cover;
+  border: 1px solid transparent;
+  padding: 1px; 
+}
+
+.img-carousel-quem
+{ 
+  background-color: black;
+  width: auto; 
+  height: 400px;
+  object-fit: contain;
+  border: 1px solid white;
+  padding: 1px; 
+}
+
+
+.navbar-toggler-icon{
+  color:rgb(0, 0, 0);
+  text-decoration: none;
+  background-color: rgb(255, 255, 255);
+}
+
+
+.navbar-expand-xl .navbar-nav .nav-item .disabled{  
+  color:rgb(22, 22, 22);
+
+}
+
+.form-group{
+  text-decoration: none;
+  color: white;
+}
+
+.map-container-2{
+  overflow:hidden;    
+  height:0;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  }
+
+  .map-container-2 iframe{
+  left:0;
+  top:0;
+  height:400px; 
+  width: 100%;  
+  }
+
+
+ .product-details { 
+  height: 100%;
+  width: 100%;
+  border: 3px solid white;
+}
+
+.text-details{
+  color: white;
+
+}
